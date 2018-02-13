@@ -1,11 +1,12 @@
 html {
     overflow: scroll;
+    background-color: #969DA0;
 }
 
 .hero.is-primary{
-    background-color: #577AA1;
+    background-color: #849EA5;
 }
 
-.image.is-128x128{
-    width:270px;
+.text-icon{
+    margin-top: 2%;
 }
