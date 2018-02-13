@@ -10,3 +10,11 @@ html {
 .text-icon{
     margin-top: 2%;
 }
+
+.column{
+    padding-bottom: 0.5em;
+}
+
+#skills{
+    overflow: hidden;
+}
