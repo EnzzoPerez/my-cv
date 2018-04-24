@@ -28,8 +28,8 @@ html {
 
 .media-content, .card{
     border-radius: 8px;
+    color: black;
 }
-
 .card{
     margin-bottom: 7px;
 }
