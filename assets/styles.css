@@ -1,10 +1,9 @@
 html {
     overflow: scroll;
-    background-color: #969DA0;
 }
 
 .hero.is-primary{
-    background-color: #849EA5;
+    background-color: #7C3543;
 }
 
 .text-icon{
@@ -21,4 +20,28 @@ html {
 
 #skills{
     overflow: hidden;
+}
+
+.box {
+    background-color: #8BC6B3;
+}
+
+.media-content, .card{
+    border-radius: 8px;
+}
+
+.card{
+    margin-bottom: 7px;
+}
+
+#contact{
+    background: white;
+    color: black;
+    border-radius: 8px;
+    padding: 4%;
+}
+
+#profile-img{
+    border-radius: 0px 48px 0px 50px;
+    padding-top: 3%;
 }
